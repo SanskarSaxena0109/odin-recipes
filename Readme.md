@@ -6,11 +6,11 @@ A simple, multi-page recipe website built as part of The Odin Project curriculum
 🚀 About the Project
 The goal of this project was to create a basic recipe website that demonstrates mastery of HTML structure. The site features a homepage with links to various recipe pages, each detailing:
 
-A high-quality image of the dish.
+1.A high-quality image of the dish.
 
-A brief, mouth-watering description.
+2.A brief, mouth-watering description.
 
-An unordered list of ingredients.
+3.An unordered list of ingredients.
 
 An ordered list of the stepwise cooking process.
 
@@ -20,11 +20,11 @@ HTML5 - The skeleton of the web.
 Note: No CSS or JavaScript was used in this project to focus purely on markup structure.
 
 📖 Featured Recipes
-[Dish Name 1] - A brief sentence about why this dish is special.
+[Pizza] - An Italian Dish made up with a peice of dough and veges topped on it.
 
-[Dish Name 2] - A brief description of this dish.
+[Biryani] - An Indian Dish made up with rice and the chicken.
 
-[Dish Name 3] - A brief description of this dish.
+[Paneer Tikka] - A roasted and the baked dish made up with the paneer.
 
 📂 Project Structure
 The project is organized with a main index file and a dedicated directory for the recipe pages:
